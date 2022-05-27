@@ -1,0 +1,7 @@
+C:\Users\Nathan\OneDrive\Documents\Ecole\Progra\LeemansNathanJeu5000\LeemansNathanJeu5000\bin\Debug\LeemansNathanJeu5000.exe.config
+C:\Users\Nathan\OneDrive\Documents\Ecole\Progra\LeemansNathanJeu5000\LeemansNathanJeu5000\bin\Debug\LeemansNathanJeu5000.exe
+C:\Users\Nathan\OneDrive\Documents\Ecole\Progra\LeemansNathanJeu5000\LeemansNathanJeu5000\bin\Debug\LeemansNathanJeu5000.pdb
+C:\Users\Nathan\OneDrive\Documents\Ecole\Progra\LeemansNathanJeu5000\LeemansNathanJeu5000\obj\Debug\LeemansNathanJeu5000.csproj.AssemblyReference.cache
+C:\Users\Nathan\OneDrive\Documents\Ecole\Progra\LeemansNathanJeu5000\LeemansNathanJeu5000\obj\Debug\LeemansNathanJeu5000.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\OneDrive\Documents\Ecole\Progra\LeemansNathanJeu5000\LeemansNathanJeu5000\obj\Debug\LeemansNathanJeu5000.exe
+C:\Users\Nathan\OneDrive\Documents\Ecole\Progra\LeemansNathanJeu5000\LeemansNathanJeu5000\obj\Debug\LeemansNathanJeu5000.pdb
